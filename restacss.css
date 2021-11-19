@@ -1,0 +1,91 @@
+div{
+    border: solid; 
+    height: 100px;
+    width: 500px;
+}
+#a1{
+    background-color: rgb(88, 65, 65);
+    margin-left: 2px;
+    margin-top: 2px;
+    width: 461px;
+    height: 80px;
+}
+
+#a2{
+    background-color: cadetblue;
+   border: solid;
+    height: 82px;
+    width: 520px;
+    margin-left: 473px;
+    margin-top: -88px;
+}
+#a3{
+     
+ border: solid;
+    height: 236px;
+    width: 991px;
+    margin-left: 3px;
+    margin-top: 9px;
+    background-color: aqua;
+}
+
+#a4{
+     border: solid;
+    height: 174px;
+    width: 983px;
+    margin-left: 6px;
+    margin-top: 45px;
+}
+#a5{
+   height: 246px;
+    width: 100px;
+    border: solid;
+    margin-left: 140px;
+    margin-top: 1px;
+}
+
+#a6{
+   height: 158px;
+    width: 100px;
+    border: solid;
+    margin-left: 9px;
+    margin-top: -245px;
+}
+#a7{
+   height: 181px;
+    width: 100px;
+    border: solid;
+    margin-left: 282px;
+    margin-top: -169px;
+}
+#a8{
+   height: 181px;
+    width: 100px;
+    border: solid;
+    margin-left: 426px;
+    margin-top: -188px;
+}
+#a9{
+    height: 181px;
+    width: 100px;
+    border: solid;
+    margin-left: 562px;
+    margin-top: -188px;
+
+}
+
+
+#a10{
+    height: 181px;
+    width: 100px;
+    border: solid;
+    margin-left: 702px;
+    margin-top: -188px;
+}
+#a11{
+     height: 181px;
+    width: 100px;
+    border: solid;
+    margin-left: 847px;
+    margin-top: -188px;
+}
